@@ -1,0 +1,10 @@
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\bin\Debug\tooltip_listbox_compobox.exe.config
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\bin\Debug\tooltip_listbox_compobox.exe
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\bin\Debug\tooltip_listbox_compobox.pdb
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\obj\Debug\tooltip_listbox_compobox.csproj.AssemblyReference.cache
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\obj\Debug\tooltip_listbox_compobox.Form1.resources
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\obj\Debug\tooltip_listbox_compobox.Properties.Resources.resources
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\obj\Debug\tooltip_listbox_compobox.csproj.GenerateResource.cache
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\obj\Debug\tooltip_listbox_compobox.csproj.CoreCompileInputs.cache
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\obj\Debug\tooltip_listbox_compobox.exe
+C:\web\tooltip_listbox_compobox\tooltip_listbox_compobox\obj\Debug\tooltip_listbox_compobox.pdb
